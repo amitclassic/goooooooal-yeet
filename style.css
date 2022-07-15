@@ -1,0 +1,21 @@
+.body_background 
+{
+    background-position: center;
+    background-size:contain;
+	background-image: url("https://golfweek.usatoday.com/wp-content/uploads/sites/87/2017/01/golf-sunset-sport-golfer-e1484440679528.png?w=1000&h=600&crop=1");
+}
+#myCanvas
+{
+    border-width:10px;
+    border-style:ridge;
+	background-color: rgb(132, 190, 132);
+}
+
+
+#hd3{
+	display: inline-block;
+	color: forestgreen;
+	background-color: rgb(132, 190, 132);
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
